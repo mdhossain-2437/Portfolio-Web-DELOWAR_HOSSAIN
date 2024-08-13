@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Genos
+- Font Author: Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)
+- Font Source: https://fonts.gstatic.com/s/genos/v12/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA6Ui-CbN8Ard7.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
